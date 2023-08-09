@@ -24,7 +24,6 @@
 <h3 align="left">Idiomas y herramientas:</h3>
 
 <h3 align="left">Soporte:</h3>
-<p> <a href="https://www.buymeacoffee.com/Diego"> <img align="left" src="https://cdn .buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Diego" /></a> </p><br> <br>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=limadv&show_icons=true&locale=en" alt="limadv" /> </p>
 
